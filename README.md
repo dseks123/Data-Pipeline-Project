@@ -1,4 +1,4 @@
-# data-pipelinex1
+# First Data Pipeline Project Readme
 Establishing real_time interaction with a database to analyze flight delay data
 This project is using a kaggle dataset of delayed flight-data around US Airports for the year 2015.
 The purpose of this project is to analyze delayed flight-date in real-time via a streamlit app in order to answer questions like:
